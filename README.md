@@ -56,6 +56,3 @@ int main(int argc, char *argv[]){
 
 ---
 
-## 🏁 Conclusión
-
-Este ejercicio demuestra cómo, con muy poco código, es posible aprovechar múltiples núcleos del procesador y ejecutar instrucciones en paralelo, algo fundamental en sistemas operativos modernos y programación de alto rendimiento.
